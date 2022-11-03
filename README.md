@@ -1,4 +1,4 @@
-- 👋 Hi, I’m SHRADDHA SINGH
+- 👋 Hi, I’m Shraddha Singh
 -
 
 <!---
