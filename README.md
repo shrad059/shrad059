@@ -3,6 +3,7 @@ Hi!
 -👋 I'm Shraddha, 18y/o
 -👨‍💻 Web engineer, focusing on ReactJS
 <!-- 🧱 Previous projects? => shraddhasingh.com -->
+
 -💬 Please reach out to me if you have any questions or just want to say hi!
 
 <!---
