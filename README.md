@@ -1,6 +1,6 @@
 
 Hi!
--👋 I'm Shraddha, 18y/o
+-👋 I'm Shraddha, 19y/o
 -👨‍💻 Web engineer, focusing on ReactJS
 <!-- 🧱 Previous projects? => shraddhasingh.com -->
 
