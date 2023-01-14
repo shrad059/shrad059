@@ -1,7 +1,7 @@
 
 Hi!
 -👋 I'm Shraddha, 19y/o
--👨‍💻 Web developer, focusing on ReactJS
+<!-- -👨‍💻 Web developer, focusing on ReactJS -->
 <!-- 🧱 Previous projects? => shraddhasingh.com -->
 
 -💬 Please reach out to me if you have any questions or just want to say hi!
