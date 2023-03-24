@@ -1,12 +1,24 @@
 
-<!-- Hi! -->
-<!-- -👋 I'm Shraddha, 19y/o -->
-<!-- -👨‍💻 Web developer, focusing on ReactJS -->
-<!-- 🧱 Previous projects? => shraddhasingh.com -->
 
-<!-- -💬 Please reach out to me if you have any questions or just want to say hi! -->
+# Welcome to my GitHub page 
 
-<!---
-shrad059/shrad059 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👤 About Me
+
+Hi there, my name is Shraddha Singh. I am a second year student at Dalhousie University double majoing in Computer Science and Physics. My areas of interest are machine learning, robotics, and software development. Check out my [portfolio](https://shrad059.github.io/portfolio), [CV](https://drive.google.com/file/d/1nMffqh0WlFezrgyuBAteyChISofQO3dN/view?usp=sharing) to learn more about me and my projects.
+
+
+## 📇 Social & Contact
+
+<div align="left">
+  <a href="mailto:sh913738@dal.ca" target="_blank" rel="noreferrer"> <img alt="Shraddha's E-mail Address" src="https://img.shields.io/badge/E&#8209;mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+  &nbsp;
+  <a href="https://shrad059.github.io/portfolio/" target="_blank" rel="noreferrer"> <img alt="Shraddha's Portfolio" src="https://img.shields.io/badge/Portfolio-08203A?style=for-the-badge&logo=About.me&logoColor=white" /> </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/shraddhasinggh/" target="_blank" rel="noreferrer"> <img alt="Shraddha Singh's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+  &nbsp;
+  <a href="https://github.com/shrad059" target="_blank" rel="noreferrer"> <img alt="Shraddha Singh's GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a>
+  &nbsp;
+
+
+
+## ⚙ Skills
