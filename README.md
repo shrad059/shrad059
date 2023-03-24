@@ -4,7 +4,7 @@
 
 ## 👤 About Me
 
-Hi there, my name is Shraddha Singh. I am a second year student at Dalhousie University double majoing in Computer Science and Physics. My areas of interest are machine learning, robotics, and software development. Check out my [portfolio](https://shrad059.github.io/portfolio), [CV](https://drive.google.com/file/d/1nMffqh0WlFezrgyuBAteyChISofQO3dN/view?usp=sharing) to learn more about me and my projects.
+Hi there, my name is Shraddha Singh. I am a second year student at Dalhousie University double majoring in Computer Science and Physics. My areas of interest are machine learning, robotics, and software development. Check out my [portfolio](https://shrad059.github.io/portfolio), [CV](https://drive.google.com/file/d/1nMffqh0WlFezrgyuBAteyChISofQO3dN/view?usp=sharing) to learn more about me and my projects.
 
 
 ## Social
