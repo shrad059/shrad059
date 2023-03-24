@@ -7,7 +7,7 @@
 Hi there, my name is Shraddha Singh. I am a second year student at Dalhousie University double majoing in Computer Science and Physics. My areas of interest are machine learning, robotics, and software development. Check out my [portfolio](https://shrad059.github.io/portfolio), [CV](https://drive.google.com/file/d/1nMffqh0WlFezrgyuBAteyChISofQO3dN/view?usp=sharing) to learn more about me and my projects.
 
 
-## 📇 Social & Contact
+## Social
 
 <div align="left">
   <a href="mailto:sh913738@dal.ca" target="_blank" rel="noreferrer"> <img alt="Shraddha's E-mail Address" src="https://img.shields.io/badge/E&#8209;mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
@@ -21,7 +21,7 @@ Hi there, my name is Shraddha Singh. I am a second year student at Dalhousie Uni
 
 
 
-## ⚙ Skills
+## Skills
 <div align="left">
 Programming Languages: Java, Python, R, C/C++, JavaScript, HTML/CSS<br>
 Cloud / Deployment: Flask, Heroku, AWS EC2 instance, Dockers<br>
