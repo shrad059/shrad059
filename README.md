@@ -22,3 +22,8 @@ Hi there, my name is Shraddha Singh. I am a second year student at Dalhousie Uni
 
 
 ## ⚙ Skills
+Programming Languages: Java, Python, R, C/C++, JavaScript, HTML/CSS
+Cloud / Deployment: Flask, Heroku, AWS EC2 instance, Dockers
+Database : MySQL, MongoDB, PostgreSQL
+Libraries: pandas, NumPy, Keras, OpenCV, Scikit-learn, Express.JS
+Soft Skills: Communication Skills, Adaptability, Time Management, Problem Solving, Leadership
