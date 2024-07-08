@@ -4,7 +4,7 @@
 
 ## 👤 About Me
 
-Hi there, my name is Shraddha Singh. I am a second year student at Dalhousie University double majoring in Computer Science and Physics. I am currently exploring the field of machine learning and learning software development.
+Hi there, my name is Shraddha Singh. I am a third year student at Dalhousie University double majoring in Computer Science and Physics. I am currently exploring the field of machine learning and learning software development.
 
 
 ## Social
