@@ -1,30 +1,25 @@
 
 
-# Welcome to my GitHub page 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi!+I+am+Shraddha+%F0%9F%A4%A0)](https://git.io/typing-svg)
 
-## 👤 About Me
+ I am a third year student studying Computer Science and Physics. I am currently exploring the field of machine learning and learning software development.
 
-Hi there, my name is Shraddha Singh. I am a third year student at Dalhousie University double majoring in Computer Science and Physics. I am currently exploring the field of machine learning and learning software development.
-
-
-## Social
-
-<div align="left">
-  <a href="mailto:sh913738@dal.ca" target="_blank" rel="noreferrer"> <img alt="Shraddha's E-mail Address" src="https://img.shields.io/badge/E&#8209;mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/shraddhasinggh/" target="_blank" rel="noreferrer"> <img alt="Shraddha Singh's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
-  &nbsp;
-  <a href="https://github.com/shrad059" target="_blank" rel="noreferrer"> <img alt="Shraddha Singh's GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a>
-  &nbsp;
-
+contact me at [sh913738@dal.ca](mailto:sh913738@dal.ca) 
 
 
 ## Skills
-<div align="left">
-Programming Languages: Java, Python, R, C/C++, JavaScript, HTML/CSS<br>
-Cloud / Deployment: Flask, Heroku, AWS EC2 instance, Dockers<br>
-Database : MySQL, MongoDB, PostgreSQL<br>
+<br>
 
-Libraries: pandas, NumPy, Keras, OpenCV, Scikit-learn, Express.JS<br>
+```json
+{
+  "language": ["typescript", "python", "java", "javascript", "CSS3", "HTML5"],
+  "backend": ["expressJs", "NodeJs", "flask"],
+  "frontend" : ["reactJs", "react-Native", "nextJs"],
+  "database": ["firebase", "dynamoDB", "MySQL", "MongoDB", "PostgreSQL"],
+}
+```
 
+</br>
+
+[linkedin](https://www.linkedin.com/in/shraddhasinggh/) | [portfolio](https://shraddhasingh.info/)
 
