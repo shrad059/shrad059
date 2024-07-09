@@ -3,7 +3,10 @@
 
 I am a third year student studying Computer Science and Physics. I am currently exploring the field of machine learning and learning software development.
 
-more on me @ [my website](https://shrad059.github.io/portfolio/). contact me at [sh913738@dal.ca](mailto:sh913738@dal.ca) 
+check out some of my code here! more on me @ [my website](https://shrad059.github.io/portfolio/). 
+
+
+contact me at [sh913738@dal.ca](mailto:sh913738@dal.ca) 
 
 
 ## Skills
