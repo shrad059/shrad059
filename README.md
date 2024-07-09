@@ -20,5 +20,5 @@ contact me at [sh913738@dal.ca](mailto:sh913738@dal.ca)
 
 </br>
 
-[linkedin](https://www.linkedin.com/in/shraddhasinggh/) | [portfolio](https://shraddhasingh.info/)
+[linkedin](https://www.linkedin.com/in/shraddhasinggh/) | [portfolio](https://shrad059.github.io/portfolio/)
 
