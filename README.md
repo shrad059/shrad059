@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&random=false&width=435&lines=hello+world;I+am+Shraddha+%F0%9F%A4%A0;I+code+stuff+%F0%9F%98%8E)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&random=false&width=435&lines=Hello+World!;I+am+Shraddha+%F0%9F%A4%A0;I+code+stuff+)](https://git.io/typing-svg)
 
 I am a third year student studying Computer Science and Physics. I am currently exploring the field of machine learning and learning software development.
 
