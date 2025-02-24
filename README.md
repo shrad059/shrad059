@@ -4,7 +4,7 @@
 
 I am a third-year Computer Science student at Dalhousie University with a strong interest in machine learning and app development for building robust applications.
 
-check out some of my code here! more on me @ [my website](https://shrad059.github.io/). 
+check out some of my code here! more on me @ [my website](https://shrad059.github.io/portfolio). 
 
 
 contact me at [sh913738@dal.ca](mailto:sh913738@dal.ca) 
@@ -24,5 +24,5 @@ contact me at [sh913738@dal.ca](mailto:sh913738@dal.ca)
 
 </br>
 
-[linkedin](https://www.linkedin.com/in/shraddhasinggh/) | [portfolio](https://shrad059.github.io/)
+[linkedin](https://www.linkedin.com/in/shraddhasinggh/) | [portfolio](https://shrad059.github.io/portfolio)
 
